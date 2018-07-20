@@ -7,7 +7,7 @@ Need Python3, numpy and pandas to run the program, which could be installed usin
 
 # Datasets
 The original datasets provided by https://www.motivateco.com/ was initially processed by Udacity and provided for project work in CSV
-format.  The CSV files (washington.csv, new_york_city.csv and chicago.csv) will have to be downloaded in the same folder as the 
+format.  The zipped up CSV files (washington.csv, new_york_city.csv and chicago.csv) will have to be downloaded in the same folder as the 
 bikeshare.py file, prior to running the script.  The CSV files include randomly selected data from first six months of 2017.  
 All three datafiles contain six core columns:
 * Start Time (e.g., 2017-01-01 00:07:57)
